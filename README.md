@@ -9,9 +9,12 @@
 <div dir="rtl" align="right">
 سلام! من عرشیا صابری هستم،
 یک توسعه‌دهنده فرانت‌اند React.js
-و در حال یادگیری Next.js.
+و در حال یادگیری Next.js
+<br>&nbsp;
 
 🔭 در حال کار با: React, JavaScript, TailwindCSS
+
+💡همیشه در حال یادگیری و به‌روزرسانی دانش فنی
 
 🌱 در حال یادگیری: Next.js
 

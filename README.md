@@ -9,18 +9,9 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/fire.svg" width="100"/>
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/timer.svg" width="100"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/three-dots-fade.svg" width="100"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n3r4zzurr0/svg-spinners/main/svg-css/pulse-ring.svg" width="100"/>
-</p>
 

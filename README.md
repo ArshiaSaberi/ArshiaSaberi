@@ -37,24 +37,24 @@
 
 
 
-
-
 <table width="100%">
   <tr>
-    <td width="48%" align="left" valign="top">
-      <h3 align="center">آمار گیت‌هاب من</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10" width="100%" style="border-radius:10px;" />
+    <td width="48%" style="display: flex; flex-direction: column; align-items: center; justify-content: center; vertical-align: middle;">
+      <h3>آمار گیت‌هاب من</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10" width="100%" style="border-radius:10px; max-width: 400px;" />
     </td>
-    <td width="48%" align="right" valign="top">
-      <h3 align="center">زبان‌های برتر</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox" width="100%" style="border-radius:10px;" />
+    <td width="48%" style="display: flex; flex-direction: column; align-items: center; justify-content: center; vertical-align: middle;">
+      <h3>زبان‌های برتر</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox" width="100%" style="border-radius:10px; max-width: 400px;" />
     </td>
   </tr>
 </table>
+
 <div align="center" style="margin-top: 20px;">
   <h3>روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
   <img src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false" width="60%" style="border-radius:10px;" />
 </div>
+
 
 
 

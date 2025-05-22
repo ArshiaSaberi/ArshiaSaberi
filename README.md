@@ -22,3 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=radical)](https://github.com/ArshiaSaberi)
 ## 🧠 زبان‌های برنامه‌نویسی مورد علاقه من
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=tokyonight)](https://github.com/ArshiaSaberi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=pie&theme=tokyonight)](https://github.com/ArshiaSaberi)

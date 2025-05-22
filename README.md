@@ -27,6 +27,20 @@
 
 ### ☎&nbsp; PhoneNumber : 0921302514
 ### 👱‍♂️&nbsp; Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -55,6 +69,9 @@
   <img src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false" width="60%" style="border-radius:10px;" />
 </div>
 
+<hr>
 
 
+## 🏆 GitHub Trophies / افتخارات گیت‌هاب من
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark)](https://github.com/ArshiaSaberi)

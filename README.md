@@ -35,6 +35,20 @@
 
 
 
+<h2 dir="rtl">👨‍💻 درباره‌ من</h2>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxempjamthcWtiaWNrNDNsZzR4cjUyaDM4YXR0ZDA2aWVybmg0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="70" align="left" style="margin-right: 15px; margin-top: 5px;" />
+
+<ul dir="rtl">
+  <li>توسعه‌دهنده فرانت‌اند با تمرکز بر React و TypeScript</li>
+  <li>علاقه‌مند به طراحی تمیز و تجربه کاربری حرفه‌ای</li>
+  <li>همیشه در حال یادگیری تکنولوژی‌های روز</li>
+  <li>دنبال خلق پروژه‌های باکیفیت و کاربردی</li>
+</ul>
+
+
+
+
 
 
 

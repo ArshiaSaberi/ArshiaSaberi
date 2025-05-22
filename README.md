@@ -26,7 +26,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshiasaberi015@gmail.com)
 
 ### ☎&nbsp; PhoneNumber : 0921302514
-### 👱‍♂️Personal Website : [وبسایت شخصی](https://arshiasaberi.github.io/arshiasaberiproject/)
+### 👱‍♂️Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
+
 
 
 <hr>

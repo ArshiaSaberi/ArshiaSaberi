@@ -1,4 +1,4 @@
-   <img align='center' src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hi🖐+I'm+Arshia+Saberi😎;Front-end+Developer&nbsp🧑‍💻;React+%7C+TypeScript+%7C+Redux+Expert&nbsp👨‍💻" alt="Typing SVG" />
+   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hi🖐+I'm+Arshia+Saberi😎;Front-end+Developer&nbsp🧑‍💻;React+%7C+TypeScript+%7C+Redux+Expert&nbsp👨‍💻" alt="Typing SVG" />
 <hr>
 
 ## 💼&nbsp; Skills / مهارت‌ها
@@ -26,13 +26,30 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshiasaberi015@gmail.com)
 
 ### ☎&nbsp; PhoneNumber : 0921302514
-### 👱‍♂️Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
+### 👱‍♂️&nbsp; Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
 
 
 
 <hr>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+<p align="center">خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox)
+
+ <table width="100%">
+  <tr>
+    <td width="48%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10" width="100%" style="border-radius:10px;" />
+    </td>
+    <td width="48%" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox" width="100%" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false" width="60%" style="border-radius:10px;" />
+</div>
+
 
 
 

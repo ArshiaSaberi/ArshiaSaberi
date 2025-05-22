@@ -1,6 +1,32 @@
    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Hi🖐+I'm+Arshia+Saberi😎;Front-end+Developer&nbsp🧑‍💻;React+%7C+TypeScript+%7C+Redux+Expert&nbsp👨‍💻" alt="Typing SVG" />
 <hr>
 
+
+
+
+## 👨‍💻 درباره من
+
+<div dir="rtl" align="right">
+سلام! من عرشیا صابری هستم،
+یک توسعه‌دهنده فرانت‌اند React.js
+و در حال یادگیری Next.js.
+
+🔭 در حال کار با: React, JavaScript, TailwindCSS
+
+🌱 در حال یادگیری: Next.js
+
+💻 تخصص اصلی: توسعه فرانت‌اند
+
+📄 رزومه من:&nbsp;👈   [دانلود فایل PDF رزومه](https://github.com/ArshiaSaberi/ArshiaSaberi/raw/main/Arshia%20Saberi_1404-1-6.pdf) 
+
+
+</div>
+
+
+
+
+
+
 ## 💼&nbsp; Skills / مهارت‌ها
 
 ### 💡 Technologies I Use&nbsp; :
@@ -35,30 +61,7 @@
 
 
 
-<h2 dir="rtl">👨‍💻 درباره‌ من</h2>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxempjamthcWtiaWNrNDNsZzR4cjUyaDM4YXR0ZDA2aWVybmg0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="70" align="left" style="margin-right: 15px; margin-top: 5px;" />
-
-<ul dir="rtl">
-  <li>توسعه‌دهنده فرانت‌اند با تمرکز بر React و TypeScript</li>
-  <li>علاقه‌مند به طراحی تمیز و تجربه کاربری حرفه‌ای</li>
-  <li>همیشه در حال یادگیری تکنولوژی‌های روز</li>
-  <li>دنبال خلق پروژه‌های باکیفیت و کاربردی</li>
-</ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr>
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <p align="center">خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
 

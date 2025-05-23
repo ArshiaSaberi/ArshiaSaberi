@@ -32,7 +32,7 @@
 
 ## 💼&nbsp; Skills / مهارت‌ها
 
-### 💡 Technologies I Use&nbsp; :
+### 💡&nbsp; Technologies I Use&nbsp; :
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -54,7 +54,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArshiaSaberi015)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshiasaberi015@gmail.com)
 
-### ☎ PhoneNumber: [0921302514](tel:98921302514)
+### ☎&nbsp; PhoneNumber: <a href="tel:+98921302514">0921302514</a>
+
+
+
 
 ### 👱‍♂️&nbsp; Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
 <hr>

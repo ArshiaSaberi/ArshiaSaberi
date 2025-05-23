@@ -64,50 +64,58 @@
 
 
 
+<div align="center" style="max-width: 900px; margin: auto;">
 
+  <h2>📊 آمار گیت‌هاب من</h2>
+  <p>خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
 
-<h2 style="text-align:center; color: #008000;">📊 آمار گیت‌هاب من</h2>
-<p style="text-align:center; margin-bottom: 2rem;">خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
-
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-
-  <div style="flex: 1 1 350px; max-width: 420px;">
-    <h3 style="text-align: center; color: #444;">آمار گیت‌هاب من</h3>
+  <!-- آمار گیت‌هاب -->
+  <div>
+    <h3>آمار گیت‌هاب من</h3>
     <img
       src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10"
       alt="GitHub stats for ArshiaSaberi"
-      style="width: 100%; border-radius: 10px;"
+      width="780"
+      style="max-width: 100%;"
     />
   </div>
 
-  <div style="flex: 1 1 250px; max-width: 420px;">
-    <h3 style="text-align: center; color: #444;">زبان‌های برتر</h3>
+  <br/>
+
+  <!-- زبان‌های برتر -->
+  <div>
+    <h3>زبان‌های برتر</h3>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox"
       alt="Top programming languages used by ArshiaSaberi"
-      style="width: 100%; border-radius: 10px;"
+      width="780"
+      style="max-width: 100%;"
     />
   </div>
 
-</div>
+  <br/>
 
-<div aign="center" style="text-align:center; margin-top: 2rem;">
-  <h3 style="color: #444;">روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
-  <img
-    src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false"
-    alt="GitHub Streak stats for ArshiaSaberi"
-    style="width: 60%; max-width: 600px; border-radius: 10px;"
-  />
-</div>
+  <!-- روند فعالیت -->
+  <div>
+    <h3>روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
+    <img
+      src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false"
+      alt="GitHub Streak stats for ArshiaSaberi"
+      width="780"
+      style="max-width: 100%;"
+    />
+  </div>
 
-<hr style="border:none; border-top: 1px solid #ddd; margin: 2rem 0;" />
+  <br/>
 
-<!-- افتخارات -->
-<h2 style="text-align:center; color: #008000;">🏆 افتخارات گیت‌هاب من</h2>
-<div style="text-align:center; margin-top: 1rem;">
-  <a href="https://github.com/ArshiaSaberi" target="_blank" rel="noopener noreferrer" title="GitHub Trophies for ArshiaSaberi">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark" alt="GitHub Trophies" style="max-width: 100%; border-radius: 10px;" />
+  <!-- افتخارات -->
+  <h2>🏆 افتخارات گیت‌هاب من</h2>
+  <a href="https://github.com/ArshiaSaberi" target="_blank" rel="noopener noreferrer" title="GitHub Trophies for ArshiaSaberi" style="display: block; width: 100%;">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark"
+      alt="GitHub Trophies"
+      style="width: 100%; max-width: 900px; border-radius: 10px;"
+    />
   </a>
-</div>
 
-</div>)
+</div>

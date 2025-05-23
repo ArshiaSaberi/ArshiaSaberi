@@ -91,7 +91,7 @@
 
 </div>
 
-<div style="text-align:center; margin-top: 2rem;">
+<div aign="center" style="text-align:center; margin-top: 2rem;">
   <h3 style="color: #444;">روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
   <img
     src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false"

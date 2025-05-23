@@ -54,7 +54,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArshiaSaberi015)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshiasaberi015@gmail.com)
 
-### ☎&nbsp; PhoneNumber : 0921302514
+### ☎ PhoneNumber: [0921302514](tel:98921302514)
+
 ### 👱‍♂️&nbsp; Personal Website : <a href="https://arshiasaberi.github.io/arshiasaberiproject/" target="_blank">وبسایت شخصی</a>
 <hr>
 
@@ -65,33 +66,48 @@
 
 
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-<p align="center">خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
+<h2 style="text-align:center; color: #008000;">📊 آمار گیت‌هاب من</h2>
+<p style="text-align:center; margin-bottom: 2rem;">خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
 
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
 
+  <div style="flex: 1 1 350px; max-width: 420px;">
+    <h3 style="text-align: center; color: #444;">آمار گیت‌هاب من</h3>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10"
+      alt="GitHub stats for ArshiaSaberi"
+      style="width: 100%; border-radius: 10px;"
+    />
+  </div>
 
+  <div style="flex: 1 1 250px; max-width: 420px;">
+    <h3 style="text-align: center; color: #444;">زبان‌های برتر</h3>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox"
+      alt="Top programming languages used by ArshiaSaberi"
+      style="width: 100%; border-radius: 10px;"
+    />
+  </div>
 
-<table width="100%">
-  <tr>
-    <td width="48%" style="display: flex; flex-direction: column; align-items: center; justify-content: center; vertical-align: middle;">
-      <h3>آمار گیت‌هاب من</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10" width="100%" style="border-radius:10px; max-width: 400px;" />
-    </td>
-    <td width="48%" style="display: flex; flex-direction: column; align-items: center; justify-content: center; vertical-align: middle;">
-      <h3>زبان‌های برتر</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=gruvbox" width="100%" style="border-radius:10px; max-width: 400px;" />
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="margin-top: 20px;">
-  <h3>روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
-  <img src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false" width="60%" style="border-radius:10px;" />
 </div>
 
-<hr>
+<div style="text-align:center; margin-top: 2rem;">
+  <h3 style="color: #444;">روند فعالیت مداوم در گیت‌هاب (GitHub Streak)</h3>
+  <img
+    src="https://streak-stats.demolab.com?user=ArshiaSaberi&theme=gruvbox&hide_border=false"
+    alt="GitHub Streak stats for ArshiaSaberi"
+    style="width: 60%; max-width: 600px; border-radius: 10px;"
+  />
+</div>
 
+<hr style="border:none; border-top: 1px solid #ddd; margin: 2rem 0;" />
 
-## 🏆 GitHub Trophies / افتخارات گیت‌هاب من
+<!-- افتخارات -->
+<h2 style="text-align:center; color: #008000;">🏆 افتخارات گیت‌هاب من</h2>
+<div style="text-align:center; margin-top: 1rem;">
+  <a href="https://github.com/ArshiaSaberi" target="_blank" rel="noopener noreferrer" title="GitHub Trophies for ArshiaSaberi">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark" alt="GitHub Trophies" style="max-width: 100%; border-radius: 10px;" />
+  </a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArshiaSaberi&theme=onedark)](https://github.com/ArshiaSaberi)
+</div>)

@@ -73,17 +73,20 @@
   <p>خلاصه‌ای از مشارکت‌هایم در گیت‌هاب، زبان‌های برتر و روند فعالیت.</p>
 
   <!-- آمار گیت‌هاب -->
-  <div>
-    <h3>آمار گیت‌هاب من</h3>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10"
-      alt="GitHub stats for ArshiaSaberi"
-      width="780"
-      style="max-width: 100%;"
-    />
-  </div>
+<!--
+<div>
+  <h3>آمار گیت‌هاب من</h3>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=gruvbox&border_radius=10"
+    alt="GitHub stats for ArshiaSaberi"
+    width="780"
+    style="max-width: 100%;"
+  />
+</div>
 
-  <br/>
+<br/>
+-->
+
 
   <!-- زبان‌های برتر -->
   <div>

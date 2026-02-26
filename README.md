@@ -38,46 +38,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,npm,postman,mongodb,eslint,jest,vscode" />
 </p>
 
----
 
-# 🏆 Featured Project
 
-## ☕ Cofi Shop
 
-🛒 Online Coffee Shop built with modern React ecosystem  
-
-- ⚡ Fully responsive design  
-- 🧠 Advanced state management  
-- 🔐 Authentication system  
-- 🛍 Cart & product management  
-- 🚀 Optimized performance  
-
-🔗 Live Demo: https://cofi-shop-z391.vercel.app/  
-🔗 Repository: https://github.com/ArshiaSaberi/Cofi-Shop  
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaSaberi&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshiaSaberi&theme=tokyo-night" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 

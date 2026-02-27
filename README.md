@@ -26,7 +26,7 @@
 
 ### 🧠 Core Technologies & Frameworks
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mongodb" />
 </p>
 
 ### 📦 Key Packages & Libraries
@@ -77,22 +77,7 @@
 🔗 **Live Demo:** [cofi-shop-z391.vercel.app](https://cofi-shop-z391.vercel.app/)  
 🔗 **Repository:** [GitHub Link](https://github.com/ArshiaSaberi/Cofi-Shop)
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArshiaSaberi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaSaberi&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaSaberi&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
